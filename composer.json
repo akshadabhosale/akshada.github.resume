@@ -1,7 +1,7 @@
 {
     
         "routes": {
-          "/*.html": "home.html"
+          "/*.html": "index.html"
         }
     
 }
