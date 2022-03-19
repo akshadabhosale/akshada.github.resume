@@ -1,7 +1,5 @@
 {
     
-        "routes": {
-          "/*.html": "index.html"
-        }
+    
     
 }
